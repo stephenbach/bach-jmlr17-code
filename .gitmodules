@@ -1,0 +1,6 @@
+[submodule "admm-speed-test"]
+	path = admm-speed-test
+	url = https://github.com/stephenbach/admm-speed-test
+[submodule "bach-uai13-code"]
+	path = bach-uai13-code
+	url = https://github.com/stephenbach/bach-uai13-code
